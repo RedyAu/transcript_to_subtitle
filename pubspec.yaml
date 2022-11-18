@@ -1,0 +1,14 @@
+name: transcript_to_subtitle
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dependencies:
+  dart_console: ^1.0.0
+  path: ^1.8.2
